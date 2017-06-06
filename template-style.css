@@ -1,0 +1,64 @@
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  margin: 0;
+}
+
+
+
+div.redbox {
+  height: 240px;
+  background-color: #ff0000;
+  width: 350px;
+  margin: 0;
+}
+
+.rectangle {
+  height: 100px;
+  width: 500px;
+  margin: 0;
+}
+
+#rectanglered {
+  background-color: #ff0000;
+}
+
+#rectangleblack {
+  background-color: #000000
+}
+
+#rectanglegold {
+  background-color: #ffd700;
+}
+
+#rectangleblue {
+  background-color: blue;
+}
+
+
+.blacksquare {
+  display: inline-block;
+  background-color: #000000;
+  margin: 50px 0 50px 50px;
+  height: 100px;
+  width: 100px;
+}
+
+.backgroundrect {
+  height: 200px;
+  width: 350px;
+  margin: 0;
+}
+
+.inlinebackgroundrect {
+  display: inline-block;
+  height: 200px;
+  width: 350px;
+  margin: 0;
+}
+
+.graybackgroundrect {
+  background-color: #555555;
+  height: 130px;
+  width: 600px;
+  margin: 10px;
+}
